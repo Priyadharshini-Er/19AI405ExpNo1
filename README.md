@@ -1,5 +1,3 @@
-+
-
 
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Priyadharshini P</h3>
